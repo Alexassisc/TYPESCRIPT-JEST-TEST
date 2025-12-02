@@ -5,3 +5,4 @@ export class Persistency implements PersistencyProtocol {
     console.log('Pedido salvo com sucesso...');
   }
 }
+ 
